@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ef1e43e-8134-446b-bba5-34155bca68b6" name="Default Changelist" comment="" />
+    <list default="true" id="9ef1e43e-8134-446b-bba5-34155bca68b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h0aZYGoKGvnVY5pmRanH0ewlQZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sadf" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,10 +45,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1292" y="334" key="FileChooserDialogImpl" timestamp="1599153817876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1292" y="334" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599153817876" />
     <state x="1243" y="439" key="Github.CreateGistDialog" timestamp="1599152717749">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1243" y="439" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599152717749" />
+    <state x="1522" y="490" key="Github.ShareDialog" timestamp="1599153394766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1522" y="490" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599153394766" />
+    <state x="1488" y="290" key="Github.UntrackedFilesDialog" timestamp="1599153455476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1488" y="290" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599153455476" />
     <state x="922" y="183" key="SettingsEditor" timestamp="1599153245596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
